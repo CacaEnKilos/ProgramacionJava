@@ -23,7 +23,7 @@ Cada directorio contiene el código fuente del programa y un archivo README que 
 
 ## ✒️ Autor
 
-👤 **Tu nombre**
+👤 **Christian**
 
 - Github: @CacaEnKilos
 
