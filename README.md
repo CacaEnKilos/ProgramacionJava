@@ -13,6 +13,7 @@ El repositorio está organizado de la siguiente manera:
 - `main/`: Rama que no tendrá muchas actualizaciones.
 - `Trabajos/`: Rama en la que estarán los trabajos complejos que he realizado.
 - `AceptaElReto`: Rama en la que estarán las soluciones de los acepta el reto que he completado, estarán ordenados según el nivel de dificultad o en relación con el timestre y temario que se relacionan.
+- `Ejercicios`: Rama en la que se encontrarán ejercicios que me hayan parecido interesantes.
 
 Cada directorio contiene el código fuente del programa y un archivo README que describe qué hace el programa.
 
